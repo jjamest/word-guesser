@@ -1,0 +1,128 @@
+Asparagus
+Biscuits
+Cookie
+Cracker
+Almond biscuit
+Bread
+Croissant
+Baguette
+Toast
+Burrito
+Cabbage
+Cabbage roll
+Cake
+Cheesecake
+Chocolate cake
+Carrot cake
+Strawberry cake
+Ice-cream cake
+Chocolate
+Pancake
+Poundcake
+Cheese
+Mozzarella
+Brie
+Feta
+Blue cheese
+Parmesan
+Cheese stick
+Congee
+Donuts
+Jam
+Sprinkles
+Dumplings
+Pierogi
+Wonton
+Fruits
+Apple
+Banana
+Cantaloupe
+Orange
+Cherry
+Kiwi
+Watermelon
+Avocado
+Apricot
+Pear
+Pineapple
+Strawberry
+French fries
+Poutine
+Grains
+Cereal
+Corn
+Popcorn
+Rice
+Ice cream
+Chocolate
+Vanilla
+Cookies and cream
+Mint chocolate
+Rocky Road
+Strawberry
+Pistachio
+Mashed potatoes
+Meats
+Beef
+Steak
+Pork
+Bacon
+Ham
+Poultry
+Buffalo wing
+Chicken nuggets
+Chicken steak
+Ribs
+Seafood
+Fish
+Salmon
+Eggs
+Scrambled egg
+Omelette
+Boiled egg
+Milk
+Almond milk
+Soy milk
+Cow milk
+Onion rings
+Pasta
+Lasagna
+Spaghetti
+Spaghetti and meatballs
+Pancit canton
+Fettuccine
+Pudding
+Pupusa
+Pie
+Shepherds pie
+Apple pie
+Pumpkin pie
+Key lime pie
+Peach pie
+Pizza
+Pepperoni
+Hawaiian
+Meat lovers
+Margherita
+Rolls
+Egg roll
+Spring roll
+Burrito
+Sandwiches
+Vegetable sandwich
+Grilled Cheese
+Panini
+Cheeseburgers
+Bacon cheeseburger
+Hamburgers
+Chicken burger
+Hot dogs
+Soup
+Chowder
+Clam Chowder
+Corn chowder
+Sinigang
+Sushi
+Stew
+Taco
+Waffle
