@@ -45,7 +45,7 @@ Word Guesser is a classic hangman-style game where players try to guess a hidden
 ### Setup
 1. **Clone or download the repository**:
    ```bash
-   git clone https://github.com/yourusername/word-guesser.git
+   git clone https://github.com/jjamest/word-guesser.git
    cd word-guesser
    ```
 
